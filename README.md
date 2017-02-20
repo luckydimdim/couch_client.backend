@@ -1,0 +1,1 @@
+Содрано с https://github.com/danielwertheim/mycouch. Переделано под Core.

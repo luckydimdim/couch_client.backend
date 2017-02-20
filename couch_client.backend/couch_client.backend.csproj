@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.0</TargetFramework>
+
+    <PackageId>couch_client.backend</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>yamal</Authors>
+    <Description>net core couch client</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright>Yamal lng</Copyright>
+    <PackageTags>couch client</PackageTags>
+    
   </PropertyGroup>
 
   <ItemGroup>

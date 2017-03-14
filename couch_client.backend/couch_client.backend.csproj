@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
 
     <PackageId>couch_client.backend</PackageId>
     <Authors>yamal</Authors>
@@ -10,8 +10,11 @@
     <PackageReleaseNotes>First release</PackageReleaseNotes>
     <Copyright>Yamal lng</Copyright>
     <PackageTags>couch client</PackageTags>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
-    <Version>1.0.2</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.3</Version>
+    <Product>CMAS</Product>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
     
   </PropertyGroup>
 
